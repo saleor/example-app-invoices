@@ -10,6 +10,10 @@ Note: This repository is an example, which means:
 
 Invoice app is based on App Template - you can check it [here](https://github.com/saleor/saleor-app-template)
 
+### Docs
+
+You can find docs [here](./docs/invoices.md)
+
 ## How to use this project
 
 ### Select your APL
