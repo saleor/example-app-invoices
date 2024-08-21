@@ -12,7 +12,7 @@ Invoice app is based on App Template - you can check it [here](https://github.co
 
 ### Docs
 
-You can find docs [here](./docs/invoices.md)
+You can find docs [here](https://docs.saleor.io/developer/app-store/apps/invoices)
 
 ## How to use this project
 
